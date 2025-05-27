@@ -10,4 +10,5 @@ public class AsyncParallelApiDemoApplication {
 		SpringApplication.run(AsyncParallelApiDemoApplication.class, args);
 	}
 
+
 }
